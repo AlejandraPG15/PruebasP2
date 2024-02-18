@@ -9,3 +9,7 @@ body {
 .contenedor-ejemplos {
     border: 3px solid orangered;
 }
+
+.contenedor-ejemplos p{
+    color: blue;
+}
