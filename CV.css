@@ -1,0 +1,11 @@
+body {
+    background-color: beige;
+}
+#CajitaEjemplo{
+    background-color: yellow;
+    color: black;
+}
+
+.contenedor-ejemplos {
+    border: 3px solid orangered;
+}
