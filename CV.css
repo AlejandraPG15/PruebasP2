@@ -1,7 +1,8 @@
 body {
     background-color: beige;
 }
-#CajitaEjemplo{
+
+/*#CajitaEjemplo{
     background-color: yellow;
     color: black;
 }
@@ -10,12 +11,14 @@ body {
     border: 3px solid orangered;
 }
 
+
 .contenedor-ejemplos p{
     color: blue;
 }
 
 .cajita-imagenes{
-    border: 3px solid blue;
-    margin: 16px; /*Esto separa el border de la caja de fuera (la roja)*/
-    padding: 32px; /*Esto separa las ímagenes de dentro del border*/
-}
+    border: 3px solid blue; 
+    margin: 16px; Esto separa el border de la caja de fuera (la roja)
+    padding: 32px; Esto separa las ímagenes de dentro del border
+}*/
+
